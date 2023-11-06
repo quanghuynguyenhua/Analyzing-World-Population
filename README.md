@@ -103,8 +103,10 @@ Here is a demo figure of the final map
   </a>
 
   <a href="https://github.com/quanghuynguyenhua/Analyzing-World-Population/edit/main/README.md">
-    <img src="/assets/World-Population.png.png" alt="Logo" width="900" height="500">
+    <img src="assets/World-Population.png.png" width="900" height="500">
   </a>
+
+  ![GitHub Logo](assets/World-Population.png.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
