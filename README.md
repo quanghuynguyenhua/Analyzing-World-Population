@@ -17,7 +17,7 @@ Exploring how the world population spreads across different countries.
         <li><a href="#references">References</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#roadmap">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -26,7 +26,7 @@ Exploring how the world population spreads across different countries.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+In this SQL project, I will use the dataset by CIA World Factbook, year 2022 and explore how the world population spreads across different countries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,5 +68,5 @@ Project Link: [https://github.com/quanghuynguyenhua/Minard-Map](https://github.c
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
+Thanks to the CIA Workbook public data, this project could be done.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
