@@ -99,14 +99,12 @@ Any analysis or commentary is the opinion of the author and should not be constr
 
 Here is a demo figure of the final map
   <a href="https://github.com/quanghuynguyenhua/Analyzing-World-Population/blob/main/assets/World-Population.png">
-    <img src="/assets/World-Population.png.png" alt="Logo" >
+    <img src="https://github.com/quanghuynguyenhua/Analyzing-World-Population/blob/main/assets/World-Population.png" alt="Logo" width="700" height="500">
   </a>
 
-  <a href="https://github.com/quanghuynguyenhua/Analyzing-World-Population/edit/main/README.md">
-    <img src="assets/World-Population.png.png" width="900" height="500">
+ <a href="https://github.com/quanghuynguyenhua/Analyzing-World-Population/blob/main/assets/Other-factors.png">
+    <img src="https://github.com/quanghuynguyenhua/Analyzing-World-Population/blob/main/assets/Other-factors.png" alt="Logo" width="700" height="500">
   </a>
-
-  ![GitHub Logo](assets/World-Population.png.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
