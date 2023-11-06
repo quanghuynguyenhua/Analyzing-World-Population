@@ -102,7 +102,7 @@ None.
 
 quanghuynguyenhua@gmail.com
 
-Project Link: [https://github.com/quanghuynguyenhua/Minard-Map](https://github.com/quanghuynguyenhua/Minard-Map)
+Project Link: [https://github.com/quanghuynguyenhua/Analyzing-World-Population](https://github.com/quanghuynguyenhua/Analyzing-World-Population)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
