@@ -62,7 +62,7 @@ Please use [this link](https://public.tableau.com/views/world-population_1699289
 Data is sourced from:
 [CIA World Factbook 2022](https://www.cia.gov/the-world-factbook/about/archives/2022/references/guide-to-country-comparisons/)
 
-Dataset: The dataset contains 11 columns and 262 rows. It has the following variables:
+Dataset: The dataset contains 12 columns and 226 rows. It has the following variables:
 
 * name - name of a country.
 
@@ -83,6 +83,12 @@ Dataset: The dataset contains 11 columns and 262 rows. It has the following vari
 * median_age - median age of a country
 
 * migration_rate - the ratio of people that left one country to another.
+
+The data from the CIA World Factbook is rich but often comes with inconsistencies and complexities that require careful cleaning and transformation. This is where Tableau Prep Builder enters the scene. With its powerful data preparation capabilities, I meticulously cleanse and shape the raw data, ensuring accuracy and consistency. From handling missing values to standardizing formats, our goal is to make the dataset ready for the visualization process.
+
+Once data is cleaned and structured, It will be transition to the visualization phase using Tableau Desktop. Here, I aim to create stunning, interactive visualizations that not only showcase the raw numbers but also tell compelling stories about population trends and dynamics around the world. Through maps, charts, and dashboards, I'll explore questions about population growth rates, distribution, age demographics, and much more.
+
+The visualizations will provide a deep understanding of global population trends, enabling us to draw insightful conclusions and identify patterns that might otherwise remain hidden in the raw data.
 
 Any analysis or commentary is the opinion of the author and should not be construed as advice.
 
