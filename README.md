@@ -60,29 +60,29 @@ Please use [this link](https://public.tableau.com/views/world-population_1699289
 ### References
 
 Data is sourced from:
-* [CIA World Factbook 2022](https://www.cia.gov/the-world-factbook/about/archives/2022/references/guide-to-country-comparisons/)
+[CIA World Factbook 2022](https://www.cia.gov/the-world-factbook/about/archives/2022/references/guide-to-country-comparisons/)
 
 Dataset: The dataset contains 11 columns and 262 rows. It has the following variables:
 
-name - name of a country.
+* name - name of a country.
 
-area - total area of the country (area_water + area_land).
+* area - total area of the country (area_water + area_land).
 
-region - continent region of a country
+* region - continent region of a country
 
-population - population of the country.
+* population - population of the country.
 
-population_growth_rate - the ratio of the population growth in 2015.
+* population_growth_rate - the ratio of the population growth in 2015.
 
-birth_rate - the rate at which people are born in a country.
+* birth_rate - the rate at which people are born in a country.
 
-death_rate - the rate at which people die in a country.
+* death_rate - the rate at which people die in a country.
 
-GDP - gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year
+* GDP - gross domestic product (GDP) or value of all final goods and services produced within a nation in a given year
 
-median_age - median age of a country
+* median_age - median age of a country
 
-migration_rate - the ratio of people that left one country to another.
+* migration_rate - the ratio of people that left one country to another.
 
 Any analysis or commentary is the opinion of the author and should not be construed as advice.
 
