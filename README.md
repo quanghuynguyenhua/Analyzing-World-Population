@@ -1,5 +1,6 @@
-# Analyzing-World-Population
-Exploring how the world population spreads across different countries.
+# Analyzing World Population
+
+Welcome to our GitHub repository dedicated to the fascinating project of analyzing global population data sourced from the CIA World Factbook. In this project, we delve into the vast realm of demographic statistics, population growth, and the intriguing nuances that shape our world.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -26,7 +27,22 @@ Exploring how the world population spreads across different countries.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+The world's population is a dynamic entity, and understanding its intricacies is vital for a range of fields, from economics to public health, and beyond. The CIA World Factbook provides a wealth of information on countries and regions, including detailed population data. Our project seeks to leverage this valuable resource to gain insights into global population trends and disparities.
+
 In this SQL project, I will use the dataset by CIA World Factbook, year 2022 and explore how the world population spreads across different countries.
+
+This project will answer some following analytical questions:
+
+1. Which country has the highest population?
+
+2. Which country has the least number of people?
+
+3. Which country is witnessing the highest population growth?
+
+4. Which country has an extraordinary number for the population?
+
+5. Which is the most densely populated country in the world?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
