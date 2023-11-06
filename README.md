@@ -36,9 +36,7 @@ Exploring how the world population spreads across different countries.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Please use the `VisualizationAssignment_1_Hua-Quang-Huy-Nguyen.ipynb` to get started.
-You could also download file footprint.html to your local folder, open and view the result quickly.
-There are draft of ideas/notions included in the folder "image".
+Please use [this link](https://public.tableau.com/views/world-population_16992891538170/WorldPopulation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to view the dashboard, posted on Tableau public.
 
 ### References
 
