@@ -18,7 +18,7 @@ Welcome to my GitHub repository dedicated to the fascinating project of analyzin
         <li><a href="#references">References</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">License</a></li>
+    <li><a href="#result">Result</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -94,8 +94,8 @@ Any analysis or commentary is the opinion of the author and should not be constr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License
+<!-- RESULT -->
+## Result
 
 None.
 
