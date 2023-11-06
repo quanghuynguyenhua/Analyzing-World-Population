@@ -1,6 +1,6 @@
 # Analyzing World Population
 
-Welcome to our GitHub repository dedicated to the fascinating project of analyzing global population data sourced from the CIA World Factbook. In this project, we delve into the vast realm of demographic statistics, population growth, and the intriguing nuances that shape our world.
+Welcome to my GitHub repository dedicated to the fascinating project of analyzing global population data sourced from the CIA World Factbook. In this project, we delve into the vast realm of demographic statistics, population growth, and the intriguing nuances that shape our world.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -48,6 +48,9 @@ This project will answer some following analytical questions:
 
 ### Built With
 
+1. Tableau Prep Builder
+2. Tableau Desktop
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -57,7 +60,7 @@ Please use [this link](https://public.tableau.com/views/world-population_1699289
 ### References
 
 Data is sourced from:
-* [https://vincentarelbundock.github.io/Rdatasets/articles/data.html](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
+* [CIA World Factbook 2022](https://www.cia.gov/the-world-factbook/about/archives/2022/references/guide-to-country-comparisons/)
 Any analysis or commentary is the opinion of the author and should not be construed as advice.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
