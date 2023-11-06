@@ -97,7 +97,10 @@ Any analysis or commentary is the opinion of the author and should not be constr
 <!-- RESULT -->
 ## Result
 
-None.
+Here is a demo figure of the final map
+  <a href="https://github.com/quanghuynguyenhua/Minard-Map/blob/main/demo.png">
+    <img src="/demo.png" alt="Logo" >
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
